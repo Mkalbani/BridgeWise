@@ -1,0 +1,1 @@
+export { TransferDependencyResolver, transferDependencyResolver } from './transfer-dependency-resolver';
