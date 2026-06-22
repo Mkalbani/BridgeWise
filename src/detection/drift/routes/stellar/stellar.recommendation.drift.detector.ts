@@ -1,4 +1,4 @@
-import { DriftAlert, DriftDetectorConfig, DriftMetrics, DriftSnapshot, RecommendationOutput, ScoreDistribution } from "./routes/stellar/types";
+import { DriftAlert, DriftDetectorConfig, DriftMetrics, DriftSnapshot, RecommendationOutput, ScoreDistribution } from "./types";
 
   
   const DEFAULT_CONFIG: Omit<DriftDetectorConfig, 'routeId'> = {
